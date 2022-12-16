@@ -1,0 +1,12 @@
+.bold {
+    font-weight: bold;
+    font-size: 32px;
+}
+.bold.small {
+    font-size:12px;
+}
+.green {
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
